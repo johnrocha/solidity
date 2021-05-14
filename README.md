@@ -1,5 +1,3 @@
-Projeto simples de Smart Contract em Solidity
-
 
 # Pré-requisitos
 - Git
